@@ -1,4 +1,5 @@
 # React In-class Exam, November 2024
+Ursula Tamen, 20100902
 
 ## 1. Setup instructions
 
